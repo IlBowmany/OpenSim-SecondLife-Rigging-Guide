@@ -91,7 +91,7 @@ It looks nice! Texture-less, but nice! Now we need to check the following option
 
 At the end of the day, you should have something like this:
 
-![alt text](https://github.com/IlBowmany/OpenSim-SecondLife-Rigging-Guide/blob/main/Screenshots/Scr27.png)]
+![alt text](https://github.com/IlBowmany/OpenSim-SecondLife-Rigging-Guide/blob/main/Screenshots/Scr28.png)]
 
 It looks nice overall! It may need some more tweaking, but for the purpouse of this guide, I think it is more than enough!
 
