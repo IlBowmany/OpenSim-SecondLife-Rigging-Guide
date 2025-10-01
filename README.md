@@ -1,0 +1,1 @@
+# OpenSim-SecondLife-Rigging-Guide
